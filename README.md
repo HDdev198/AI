@@ -1,0 +1,2 @@
+🎭 Multi-label Emotion Classification (Phân tích Cảm xúc Đa nhãn)
+Đồ án môn học được thực hiện bởi Nhóm 7. Dự án này xây dựng một hệ thống Phân tích cảm xúc (Sentiment Analysis) dựa trên văn bản tiếng Anh (Tweets về COVID-19), sử dụng các kỹ thuật Deep Learning tiên tiến để dự đoán 12 loại cảm xúc khác nhau trong cùng một câu (Multi-label Classification).
